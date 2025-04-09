@@ -1,0 +1,16 @@
+{
+  "name": "CLV LIVE (Code Live Edit)",
+  "short_name": "CLV LIVE",
+  "description": "Live code editor and viewer with modern tools",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/12498/12498812.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
