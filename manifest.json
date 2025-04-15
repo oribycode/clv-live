@@ -4,7 +4,7 @@
   "description": "Live code editor and viewer with modern tools",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#333333",
+  "background_color": "white",
   "theme_color": "#333333",
   "icons": [
     {
